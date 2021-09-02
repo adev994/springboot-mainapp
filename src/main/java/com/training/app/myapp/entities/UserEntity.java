@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Set;
 
 @Entity
-@Table(name="users")
+@Table(name="app_users")
 public class UserEntity {
 
 
